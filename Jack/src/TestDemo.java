@@ -5,7 +5,7 @@ public class TestDemo {
 		// TODO Auto-generated method stub
 		int y =100;
 		System.out.println("hello Pink!!!!"+y);
-		System.out.println("hello green!!!");
+		System.out.println("hello green!!! ");
 		
 
 	}
